@@ -4,4 +4,4 @@ Microserviço de classificação para a unidade curricular da USJT de sistemas d
 
 ##
 
-O microserviço age de forma independe para classificar a se o ingresso é prioritario ou não.
+O microserviço age de forma independente para classificar se o ingresso é prioritario ou não.
