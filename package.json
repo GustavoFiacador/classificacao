@@ -1,0 +1,17 @@
+{
+  "name": "classificacao",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon src/index.js --exec node"
+  },
+  "repository": "https://github.com/GustavoFiacador/classificacao.git",
+  "author": "<gfiacador@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
